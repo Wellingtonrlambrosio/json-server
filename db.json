@@ -1,0 +1,149 @@
+{
+  "Livros": [
+    {
+      "id": 1,
+      "livro": "Pedagogia do Oprimido",
+      "Autor": "Paulo Freire",
+      "Valor": "R$ 27,00",
+      "Sinopse": "Clássico do Patrono da Educação, Pedagogia do oprimido é uma das obras de ciências sociais e humanas mais citadas no mundo. Apresentando de forma objetiva reflexões sobre a relação entre opressores e oprimidos, Paulo Freire nos presenteia com um livro revolucionário que reafirma a esperança na libertação do ser humano por meio do diálogo e da práxis."
+    },
+    {
+      "id": 2,
+      "livro": "Educação e mudança",
+      "Autor": "Paulo Freire",
+      "Valor": "R$ 37,00",
+      "Sinopse": "Escrito originalmente em espanhol e publicado pela primeira vez no Brasil em 1979, Educação e mudança coincide com o retorno de Paulo Freire ao país, após seu exílio forçado pela ditadura civil-militar brasileira."
+    },
+    {
+      "id": 3,
+      "livro": "Pequeno manual antirracista",
+      "Autor": "Djamila Ribeiro",
+      "Valor": "R$ 18,00",
+      "Sinopse": "Neste pequeno manual, a filósofa e ativista Djamila Ribeiro trata de temas como atualidade do racismo, negritude, branquitude, violência racial, cultura, desejos e afetos. Em onze capítulos curtos e contundentes, a autora apresenta caminhos de reflexão para aqueles que queiram aprofundar sua percepção sobre discriminações racistas estruturais e assumir a responsabilidade pela transformação do estado das coisas."
+    },
+    {
+      "id": 4,
+      "livro": "Tornar-se negro",
+      "Autor": "Neusa Santos", 
+      "Valor": "R$ 37,00",
+      "Sinopse": "Obra pungente, intensa e atual ― porém por muito tempo esquecida ―, Tornar-se negro virou um marco no Brasil ao discutir os efeitos psíquicos do racismo na identidade de pessoas negras. Com novo prefácio de Maria Lúcia da Silva, além do prefácio de Jurandir Freire Costa à edição original, este volume traz ainda textos inéditos de Neusa Santos Souza."
+    },
+    {
+      "id": 5,
+      "livro": "O Retrato de Dorian Gray",
+      "Autor": "Oscar Wilde",
+      "Valor": "R$ 23,00",
+      "Sinopse": "Único romance escrito por Oscar Wilde, O retrato de Dorian Gray foi publicado em 1890 na revista Lippincotts Monthly Magazine."
+    },
+    {
+      "id": 6,
+      "livro": "Quando Ninguém Está Olhando",
+      "Autor": " Alyssa Cole",
+      "Valor": "R$ 37,00",
+      "Sinopse": "Sydney Green nasceu e foi criada no Brooklyn, em Nova York, mas cada vez que ela pisca os olhos seu amado bairro parece mudar. Condomínios se espalham como erva daninha, placas de “vende-se” surgem da noite para o dia e os vizinhos que ela conhece a vida toda estão sumindo."
+    },
+    {
+      "id": 7,
+      "livro": "Dom Casmurro",
+      "Autor": "Machado de Assis",
+      "Valor": "R$ 18,00",
+      "Sinopse": "A obra de 1889, mais conhecida do escritor Machado de Assis, conta a história de Bentinho e Capitu, que, apaixonados na adolescência, têm que enfrentar um obstáculo à realização de seus anseios amorosos, pois a mãe de Bentinho, D. Glória, fez uma promessa de que seu filho seria padre. Assim, no seminário, Bentinho conhece Escobar, que se torna seu melhor amigo e encontra uma solução para o problema. Mas tudo fica turvo quando Bentinho desconfia de ter sido traido por seu melhor amigo."
+    },
+    {
+      "id": 8,
+      "livro": "Memórias póstumas de Brás Cubas",
+      "Autor": "Machado de Assis",
+      "Valor": "R$ 27,00",
+      "Sinopse": "Na obra, o finado Brás Cubas decide contar sua história por uma ótica bastante inusitada: em vez de começar pelo seu nascimento, sua narrativa inicia-se pelo óbito. Enquanto rememora as experiências que vivera, entre uma digressão e outra, o defunto-autor tece uma série de reflexões sobre a vida e sobre a sociedade da época, com serenidade e bom-humor, e o leitor se surpreenderá ao constatar a atualidade de suas observações."
+    },
+
+    {
+      "id": 9,
+      "livro": "O Pequeno Príncipe Preto",
+      "Autor": "Rodrigo França ",
+      "Valor": "R$ 25,00",
+      "Sinopse": "Em um minúsculo planeta, vive o Pequeno Príncipe Preto. Além dele, existe apenas uma árvore Baobá, sua única companheira. Quando chegam as ventanias, o menino viaja por diferentes planetas, espalhando o amor e a empatia. O texto é originalmente uma peça infantil que já rodou o país inteiro."
+    },
+    
+    {
+      "id": 10,
+      "livro": "Pai Francisco",
+      "Autor": "Marina Miyazaki Araújo",
+      "Valor": "R$ 29,00",
+      "Sinopse": "Esta é a história de um menino que não vê a hora de voltar a ter o pai, afastado do convívio social, ao seu lado. Com uma linguagem poética e totalmente identificada com a fala do menino, a autora aborda a importância do vínculo familiar e da figura paterna para a criança. As ilustrações de Marcus Vinicius Vasconcelos dão vida a esses personagens, ajudando a mostrar que a criança não tem responsabilidade pelos atos cometidos pelos pais."
+    },
+
+    {
+      "id": 11,
+      "livro": "Antes que o café esfrie",
+      "Autor": "Toshikazu Kawaguchi ",
+      "Valor": "R$ 49,00",
+      "Sinopse": "Em Antes que o Café Esfrie, conheceremos quatro pessoas que precisam viver essa experiência, porém... A jornada envolve riscos e possui regras, por sinal extremamente irritantes: no passado, você só poderá encontrar pessoas que já estiveram no café; os clientes têm que se sentar numa cadeira específica e não é possível se levantar durante a viagem; nada que for feito ou dito mudará o presente; é preciso voltar antes que o café esfrie... Um livro para ser lido e relido... e relido... e relido...."
+    },
+
+    {
+      "id": 12,
+      "livro": "Heartstopper: Dois garotos, um encontro (vol. 1)",
+      "Autor": "Alice Oseman ",
+      "Valor": "R$ 52,00",
+      "Sinopse": "Charlie Spring e Nick Nelson não têm quase nada em comum. Charlie é um aluno dedicado e bastante inseguro por conta do bullying que sofre no colégio desde que se assumiu gay. Já Nick é superpopular, especialmente querido por ser um ótimo jogador de rúgbi. Quando os dois passam a sentar um ao lado do outro toda manhã, uma amizade intensa se desenvolve, e eles ficam cada vez mais próximos."
+    }
+    
+  ],
+  "Gêneros Literários": [
+    {
+      "id": 1,
+      "name": "Romance",
+      "Especificador": "é a forma literária pertencente ao gênero narrativo e que apresenta uma história completa composta por enredo, temporalidade, ambientação e personagens definidos de maneira clara."
+    },
+    {
+      "id": 2,
+      "name": "Literatura infatil",
+      "Especificador": "“A literatura infantil, por inquietante que seja, pode ser definida de maneira correta como: livros lidos por; especialmente adequados para; ou especialmente satisfatórios para membros do grupo hoje definido como crianças”, diz o pesquisador"
+    },
+    {
+      "id": 3,
+      "name": "Antirracista",
+      "Especificador": "Uma educação antirracista é também aquela que traz uma valorização da história e contribuição dos povos africanos e afro-brasileiros na construção do país. E os livros são elementos centrais na construção das subjetividades das pessoas."
+    },
+    {
+      "id": 4,
+      "name": "Ficção",
+      "Especificador": "Prosa literária criada a partir de elementos imaginários fundados na realidade e/ou de elementos reais introduzidos no mundo da imaginação; ficcionalismo, ficcionismo, literatura de ficção."
+    },
+    {
+      "id": 5,
+      "name": "Literatura Brasileira",
+      "Especificador": "A literatura brasileira tem desenvolvimento a partir dos textos descritivos de viajantes sobre a terra recém-descoberta. Os documentos escritos eram destinados à coroa portuguesa e são classificados como conteúdos informativos sobre a natureza e os habitantes da colônia."
+    }
+  ],
+
+  "Editora": [
+    {
+      "id":1,
+      "Editora": "Companhia das Letras",
+      "Fundada": "1986",
+      "Fundadores": "Luiz Schwarcz Lilia Moritz Schwarcz"
+    },
+    {
+      "id":2,
+      "Editora": "Rocco",
+      "Fundada": "1975",
+      "Fundadores": "Paulo Roberto Rocco"
+    },
+    {
+      "id":3,
+      "Editora": "Sextante",
+      "Fundada": "1998",
+      "Fundadores": "Geraldo Jordão Pereira"
+    },
+    {
+      "id":4,
+      "Editora":"Intrínseca",
+      "Fundada": "2003",
+      "Fundadores": "Jorge Oakim"
+    }
+
+
+  ]
+}
